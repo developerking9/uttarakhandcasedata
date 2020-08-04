@@ -2,13 +2,17 @@
   "MadhyapradeshCaseReport": [
     {
       "id": 1,
-      "Name": "Telangana State",
-      "TotalCases": "65000",
-      "TotalDeaths": "950",
-      "TotalRecovered": "15000",
-      "TotalInc": "4700",
-      "TotalDec": "0",
-      "Condition": "Need to improve"
+      "Nameuk": "Uttarakhand (उत्तराखंड)",
+      "TotalCasesuk": "1583792",
+      "TotalDeathsuk": "34968",
+      "TotalRecovereduk": "1020582",
+      "TotalCasesouk": "1.58M",
+      "TotalDeathswuk": "34.96K",
+      "TotalRecoveredruk": "1.02M",
+      "TotalIncuk": "52.12K+",
+      "TotalDecuk": "775+",
+      "TotalRecuk": "32.55K+",
+      "Conditionuk": "Need to improve"
     }
   ]
 }
